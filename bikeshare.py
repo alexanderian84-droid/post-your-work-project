@@ -5,13 +5,13 @@ def greet_user():
     print("Welcome to the Bikeshare analysis tool")
 
 
-def show_message():
+def display_message():
     print("This script will analyze bikeshare data")
 
 
 def main():
     greet_user()
-    show_message()
+    display_message()
 
 
 if __name__ == "__main__":
