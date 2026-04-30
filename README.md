@@ -1,24 +1,19 @@
 # Bikeshare Project
 
-This project uses Python to explore bikeshare data.
+## Description
+This project analyzes bikeshare data using Python. It allows users to explore data and view basic statistics such as usage patterns and trip information.
 
 ## Files
-
-- bikeshare.py: main Python program
-- new_york_city.csv: dataset used locally
+- bikeshare.py: main Python script
+- new_york_city.csv: dataset (not included in repository)
 - README.md: project documentation
 
-## Requirements
-
-- Python 3
-- pandas
-
 ## How to Run
-
-Run the Python file using:
-
+Run the script using:
 python bikeshare.py
 
-## Notes
+## Requirements
+- Python 3
 
-CSV files are ignored using .gitignore and are not uploaded to GitHub.
+## Notes
+The dataset (.csv file) is excluded from the repository using .gitignore.
