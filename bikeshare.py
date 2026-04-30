@@ -1,5 +1,6 @@
 # Bikeshare Project Script
 # This file is used to practice Git version control
+# Refactored version of bikeshare script for better structure
 
 def greet_user():
     print("Welcome to the Bikeshare analysis tool")
