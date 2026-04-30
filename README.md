@@ -1,27 +1,24 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare Project
 
+This project uses Python to explore bikeshare data.
 
-# Project Title
+## Files
 
-Describe what your project is about and what it does
+- bikeshare.py: main Python program
+- new_york_city.csv: dataset used locally
+- README.md: project documentation
 
-## Information about how to use your project
+## Requirements
 
-This could include:
+- Python 3
+- pandas
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+## How to Run
 
-## Contribution guidelines
+Run the Python file using:
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+python bikeshare.py
 
-## Credits
+## Notes
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+CSV files are ignored using .gitignore and are not uploaded to GitHub.
